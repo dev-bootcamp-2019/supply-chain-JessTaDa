@@ -10,6 +10,6 @@ script:
   - sleep 5
   - truffle test
 
-branches:
-  only:
-  - master
+# branches:
+#   only:
+#   - master
